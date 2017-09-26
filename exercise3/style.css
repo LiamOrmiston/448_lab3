@@ -12,7 +12,7 @@ p
 }
 p:hover
 {
-    background-color: white;
+    background-image: url(white-leather-texture.jpg);
     color: grey;
     font-style: italic;
 }
